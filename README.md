@@ -1,0 +1,1 @@
+A physics-informed, temperature-dependent ensemble machine learning framework that integrates thermodynamic descriptors, molecular symmetry metrics, and Arrhenius transport features to predict and design high-performance deep eutectic solvent electrolytes was proposed.
